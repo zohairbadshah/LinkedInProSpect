@@ -26,7 +26,7 @@ Make sure you have the following prerequisites installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/LinkedInProSpect.git
+    git clone https://github.com/zohairbadshah/LinkedInProSpect.git
     ```
 
 2. **Install dependencies:**
